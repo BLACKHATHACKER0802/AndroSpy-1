@@ -37,7 +37,7 @@ For Huawei and other EMUI devices, read this article: https://dontkillmyapp.com/
 <img src="https://user-images.githubusercontent.com/45147475/101690479-6170ba00-3a7e-11eb-938c-29b0e6a3482a.PNG" width="40%"></img>
 <img src="https://user-images.githubusercontent.com/45147475/101690443-59187f00-3a7e-11eb-9321-1ffb457cb6ab.PNG" width="35%"></img>  <img src="https://user-images.githubusercontent.com/45147475/101881912-2d90b400-3ba6-11eb-8f21-54df9caf0d6f.PNG" width="40%"></img> 
 <img src="https://user-images.githubusercontent.com/45147475/101283748-83074280-37ed-11eb-94ff-3a508a0413c0.png" width="40%"></img>
-<img src="https://github.com/BLACKHATHACKER0802/AndroSpy-1/blob/master/Screenshot_20210112_201647.jpg" width="80%"></img>
+<img src="https://github.com/BLACKHATHACKER0802/AndroSpy-1/blob/master/Screenshot_20210112_201647.jpg" width="60%"></img>
 # Update December 2020 on Version 3  
 
 +CPU Wakelock is now choose of user in Builder.  
